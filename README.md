@@ -1,4 +1,8 @@
-### Hi there 👋
+## Dados Abertos Tucano 👋
+
+Este projeto tem como objetivo disponibilizar **Dados Abertos** sobre o município de **Tucano/Ba** de forma livre e colaborativa. 
+
+
 
 <!--
 **dadosabertostucano/dadosabertostucano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
